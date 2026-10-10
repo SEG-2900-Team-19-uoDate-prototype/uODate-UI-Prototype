@@ -7,14 +7,18 @@ uODates is platform that is only for users that are currently in University. The
 - When making an account you are required to Using your school email, because it will allow you to be able to see people in that go to the same school as you, when a person is making an account the following will be asked. The school they go to and their school email, their age, their major, their hobbies.
 - (IMP) If a user declares that they don't want to share any information that they choose with users the are allowed to do so, and they will only allow people that they want to know that information.
 
-## Where users can get help with the Platform?
-- Users can get help by email the following Team members
+## uODates dev Team
 Team Members
-- Bryce, Raheil; Email:@uottawa.ca
-- Hussein, Mahad; Email: mhuss045@uottawa.ca
-- Sandbhor, Neha; Email:@uottawa.ca
-- Robert, Rohit; Email:@uottawa.ca
-- Amiry, Aria; Email:@uottawa.ca
+- Bryce, Raheil
+  -Student Number: 300542148
+- Hussein, Mahad
+  - Student Number: 300537038
+- Sandbhor, Neha
+  - Student Number
+- Robert, Rohit
+  - Student Number
+- Amiry, Aria
+  - Student Number
 
 Planned Features.
 - Update feed
