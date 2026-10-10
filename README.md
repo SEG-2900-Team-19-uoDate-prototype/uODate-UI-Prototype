@@ -1,4 +1,4 @@
-# uODates
+# uODate
 
 ## Overview 
 uODates is platform that is only for users that are currently in University. The platform is for helping users find people that they may have an interest in to have a relationship with each other it could be lover, or even looking for some to be their friends.
@@ -7,7 +7,7 @@ uODates is platform that is only for users that are currently in University. The
 - When making an account you are required to Using your school email, because it will allow you to be able to see people in that go to the same school as you, when a person is making an account the following will be asked. The school they go to and their school email, their age, their major, their hobbies.
 - (IMP) If a user declares that they don't want to share any information that they choose with users the are allowed to do so, and they will only allow people that they want to know that information.
 
-## uODates dev Team
+## uODate dev Team
 Team Members
 - Bryce, Raheil
   -Student Number: 300542148
