@@ -22,7 +22,7 @@ Planned Features.
 - User-friendly interface
 - Compatible with Mobile Phones and Desktops / Laptops
 
-## Platform c
+## Platform code
 The project is expected to use:
 - HTML
 - CSS
